@@ -1,0 +1,39 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+body{
+  min-height:100vh;
+  font-family:'Roboto',sans-serif;
+  background:rgba(0,0,0,.6);
+
+main{
+  min-height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  
+}
+.container{
+  width:300px;
+  height:80px;
+}
+.btn{
+  display:block;
+  margin:0 auto;
+  width:120px;
+  height:32px;
+  background:blue;
+  color:#fff;
+  border:2px solid #333;
+  border-radius:8px;
+  margin-top:24px;
+
+}
+h2{
+  font-size:24px;
+  color:#222;
+  text-transform:uppercase;
+  text-align:center;
+}

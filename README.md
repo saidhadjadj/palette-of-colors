@@ -1,6 +1,17 @@
-# Palette of colors
+# 🎨 Palette of Colors
 
-A Pen created on CodePen.
+A clean and interactive web app to explore and generate color palettes.
 
-Original URL: [https://codepen.io/cosaidepen/pen/NWLedor](https://codepen.io/cosaidepen/pen/NWLedor).
+## 🔗 Live Demo
+https://palette-of-colors.vercel.app
+
+## ✨ Features
+- Generate color palettes
+- Clean UI
+- Responsive design
+
+## 🛠️ Built with
+- HTML5
+- CSS3
+- JavaScript
 
